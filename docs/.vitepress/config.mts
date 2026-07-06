@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Pavlos Lykakis',
   description: 'Software engineering notes and thoughts',
-  base: '/blog/',
+  base: '/',
   themeConfig: {
     siteTitle: 'Pavlos Lykakis',
     nav: [
