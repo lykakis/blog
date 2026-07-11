@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'Pavlos Lykakis',
-  description: 'Software engineering notes and thoughts',
+  description: 'Notes and thoughts',
   base: '/',
   themeConfig: {
     siteTitle: 'Pavlos Lykakis',
@@ -13,7 +13,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Built with Markdown, VitePress, and GitHub Pages.',
-      copyright: 'Personal software engineering notes and thoughts.'
+      copyright: 'Personal notes and thoughts.'
     }
   }
 })
