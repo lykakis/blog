@@ -8,7 +8,9 @@ export default defineConfig({
     siteTitle: 'Pavlos Lykakis',
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Projects', link: '/projects/' },
       { text: 'Articles', link: '/articles/' },
+      { text: 'Photos projects', link: '/photos/' },
       { text: 'About', link: '/about' }
     ],
     footer: {
