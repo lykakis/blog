@@ -10,7 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Projects', link: '/projects/' },
       { text: 'Articles', link: '/articles/' },
-      { text: 'Photos projects', link: '/photos/' },
+      { text: 'Photography hobby', link: '/photos/' },
       { text: 'About', link: '/about' }
     ],
     footer: {
