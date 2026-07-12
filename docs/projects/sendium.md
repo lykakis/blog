@@ -7,6 +7,6 @@ date: 2026-07-11
 
 Sendium is an open-source, headless SMS gateway engineered for high-throughput delivery.
 
-Built with Java and Quarkus. I created and maintain it at Cytechmobile.
+Built with Java and Quarkus. We created and maintain it at Cytechmobile.
 
 [GitHub →](https://github.com/cytechmobile/sendium)
