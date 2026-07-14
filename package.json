@@ -5,10 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
+    "build": "node scripts/optimize-images.mjs && vitepress build docs",
+    "optimize-images": "node scripts/optimize-images.mjs",
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "sharp": "^0.35.3",
     "vitepress": "^1.6.4"
   }
 }
